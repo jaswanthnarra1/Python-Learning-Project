@@ -1,0 +1,14 @@
+[
+  {
+    "loan_id": 1001,
+    "name": "shiva",
+    "salary": 50000,
+    "loan_amount": 500000,
+    "emi": 5000,
+    "tenure": 100,
+    "balance": 500000,
+    "status": "On Going",
+    "next_due": "06-03-2026",
+    "history": []
+  }
+]
